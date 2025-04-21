@@ -53,10 +53,10 @@ _For more, see the [Extended Knowledge Doc](https://docs.google.com/document/d/1
 | Project Name                      | Description                                                                 | Link                |
 |----------------------------------|-----------------------------------------------------------------------------|---------------------|
 | GenAI Chatbot                    | Conversational AI for customer support                                      | [Repo](https://github.com/mahek-sota/genai-chatbot/tree/main) |
-| Text-to-Image Synth              | Generates images from text prompts                                          | [Repo](LINK_TO_REPO) |
-| AI Content Summarizer            | Summarizes long articles using LLMs                                         | [Repo](LINK_TO_REPO) |
-| Multi-Agent Comedy Creator       | Simulates a collaborative stand-up comedy writing session between two agents | [Repo](LINK_TO_REPO) |
-| Horror Novel Idea Generator      | Multi-agent system that co-develops horror plots through character and plot brainstorming | [Repo](LINK_TO_REPO) |
+| Text-to-Image Synth              | Generates images from text prompts                                          | [Repo](https://github.com/mahek-sota/Text-to-Image-Synth/tree/main) |
+| AI Content Summarizer            | Summarizes long articles using LLMs                                         | [Repo](https://github.com/mahek-sota/AI-Content-Summarizer/tree/main) |
+| Multi-Agent Comedy Creator       | Simulates a collaborative stand-up comedy writing session between two agents | [Repo](https://github.com/mahek-sota/AI-agent-standup-comdy/tree/main) |
+| Horror Novel Idea Generator      | Multi-agent system that co-develops horror plots through character and plot brainstorming | [Repo](https://github.com/mahek-sota/Ai-agent-horror-novel) |
 | Customer Onboarding Assistant    | Sequential agent flow that guides users through onboarding and setup in a SaaS context | [Repo](LINK_TO_REPO) |
 | Blog Writer with Reflection Agent| Agents reflect on user inputs and collaboratively write blog posts          | [Repo](LINK_TO_REPO) |
 | Conversational Chess with Tools  | Agents play chess while using external tools for strategic reasoning         | [Repo](LINK_TO_REPO) |
